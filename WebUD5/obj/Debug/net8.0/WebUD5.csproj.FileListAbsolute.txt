@@ -1,0 +1,580 @@
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\appsettings.Development.json
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\appsettings.json
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\efpt.config.json
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.exe
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.deps.json
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.runtimeconfig.json
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.pdb
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Azure.Core.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Azure.Identity.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\EPPlus.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Humanizer.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\MediatR.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Common.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\SendGrid.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\StarkbankEcdsa.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.ClientModel.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.CodeDom.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Text.Json.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.csproj.AssemblyReference.cache
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.AssemblyInfoInputs.cache
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.AssemblyInfo.cs
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.csproj.CoreCompileInputs.cache
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.MvcApplicationPartsAssemblyInfo.cs
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.MvcApplicationPartsAssemblyInfo.cache
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets.build.json
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets.development.json
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets\msbuild.WebUD5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUD5.props
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUD5.props
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUD5.props
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\scopedcss\bundle\WebUD5.styles.css
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.csproj.Up2Date
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\refint\WebUD5.dll
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.pdb
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.genruntimeconfig.cache
+D:\Term 7\Sp\Code\WebUD5\WebUD5\obj\Debug\net8.0\ref\WebUD5.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\appsettings.Development.json
+D:\WebUD5\WebUD5\bin\Debug\net8.0\appsettings.json
+D:\WebUD5\WebUD5\bin\Debug\net8.0\efpt.config.json
+D:\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.staticwebassets.endpoints.json
+D:\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.exe
+D:\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.deps.json
+D:\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.runtimeconfig.json
+D:\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\WebUD5.pdb
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Azure.Core.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Azure.Identity.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\EPPlus.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Humanizer.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\MediatR.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Build.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Common.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\SendGrid.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\StarkbankEcdsa.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.ClientModel.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.CodeDom.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Memory.Data.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Text.Json.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\WebUD5\WebUD5\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.csproj.AssemblyReference.cache
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.AssemblyInfoInputs.cache
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.AssemblyInfo.cs
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.csproj.CoreCompileInputs.cache
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.MvcApplicationPartsAssemblyInfo.cs
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.MvcApplicationPartsAssemblyInfo.cache
+D:\WebUD5\WebUD5\obj\Debug\net8.0\scopedcss\bundle\WebUD5.styles.css
+D:\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets.build.json
+D:\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets.development.json
+D:\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.csproj.Up2Date
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.dll
+D:\WebUD5\WebUD5\obj\Debug\net8.0\refint\WebUD5.dll
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.pdb
+D:\WebUD5\WebUD5\obj\Debug\net8.0\WebUD5.genruntimeconfig.cache
+D:\WebUD5\WebUD5\obj\Debug\net8.0\ref\WebUD5.dll
+D:\WebUD5\WebUD5\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\WebUD5\WebUD5\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\WebUD5\WebUD5\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\WebUD5\WebUD5\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\WebUD5\WebUD5\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\WebUD5\WebUD5\obj\Debug\net8.0\swae.build.ex.cache

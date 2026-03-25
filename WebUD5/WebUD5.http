@@ -1,0 +1,6 @@
+@WebUD5_HostAddress = http://localhost:5223
+
+GET {{WebUD5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
